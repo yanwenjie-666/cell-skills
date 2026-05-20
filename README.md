@@ -281,7 +281,7 @@ Use the cell-writing agent to write a Summary and Highlights for this paper.
 
 ## 致谢
 
-本项目受 [Yuan1z0825/nature-skills](https://github.com/Yuan1z0825/nature-skills) 和 [Boom5426/Nature-Paper-Skills](https://github.com/Boom5426/Nature-Paper-Skills) 启发，感谢两个项目为学术写作 AI 技能生态所做的贡献。
+本项目受 [Yuan1z0825/nature-skills](https://github.com/Yuan1z0825/nature-skills) 和 [Boom5426/Nature-Paper-Skills](https://github.com/Boom5426/Nature-Paper-Skills) 启发，感谢两个项目为学术写作 AI 技能生态所做的贡献。Web Coding 借助 Bohrium 平台完成。
 
 ---
 
