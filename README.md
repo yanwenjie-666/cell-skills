@@ -25,7 +25,7 @@
 
 ## 📊 效果展示：Nature vs Science vs Cell 三方对比
 
-> 使用同一组实验数据（NSCLC scRNA-seq，Tex-int 细胞发现），按三种期刊 Skill 规则分别产出图表和文本，展示差异化输出能力。
+> 使用同一组模拟数据实验数据（NSCLC scRNA-seq，Tex-int 细胞发现），按三种期刊 Skill 规则分别产出图表和文本，展示差异化输出能力。
 
 ### 🖼️ 图表风格对比
 
@@ -121,10 +121,13 @@ for skill in /path/to/cell-skills/cell-*/SKILL.md; do
 done
 ```
 
-之后在 Cursor Chat 或 Composer 中直接输入：
+直接把文本/数据/需求发给 AI（中英文均可）
+比如：Cursor Chat 或 Composer 中直接输入：
 - `Polish this paragraph for Cell journal`
 - `Write a Cell Summary for these findings`
 - `Design a Graphical Abstract for this paper`
+- "Draw a 4-panel figure"
+- "帮我润色这段 Results"
 
 Cursor 会自动加载 `.cursor/rules/` 中的指令作为上下文。
 
